@@ -1,0 +1,22 @@
+h1{
+    color: rgb(117, 54, 175);
+    margin-left: 40px;
+}
+#cover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.content{
+    border: 3px solid rgb(196, 181, 181);
+    width: 25vw;
+    height: 10vw;
+    margin: 4px;
+    border-radius: 10px;
+    overflow:hidden;
+}
+p{
+    padding: 0px;
+    margin:0px
+}

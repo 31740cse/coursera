@@ -1,0 +1,52 @@
+h1{
+    color: rgb(117, 54, 175);
+    margin-left: 40px;
+}
+#cover{
+    margin-left: 7vw;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.content{
+    border: 3px double rgb(196, 181, 181);
+    width: 25vw;
+    height: 10vw;
+    margin: 4px;
+    border-radius: 10px 20px;
+    overflow:hidden;
+}
+p{
+    padding: 0px;
+    margin:0px
+}
+#thanks{
+    height: 25vh;
+    width: 30vw;
+    background-color: rgb(192, 131, 192);
+    border: 2px solid black;
+    border-radius: 10px;
+
+    /* display: flex; */
+    /* justify-content: center; */
+}
+#img{
+    text-align: center;
+    margin-top: 10px;
+}
+#thanks_msg{
+    margin: 5px 0px;
+    text-align: center;
+}
+#ok_butto{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    padding: 10px;
+}
+button{
+    width: 10vw;
+}
+
